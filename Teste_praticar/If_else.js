@@ -1,6 +1,6 @@
 let nota = 7;
 if (nota >= 6) {
-    console.log("Parabéns pela sua aprovação!");
+    console.log("Aprovado!");
 } else {
     console.log("Reprovado!");
 }   
